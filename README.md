@@ -2,7 +2,7 @@
 Code for paper "Neighbor-based Enhanced GNN for Social Recommendation via more Informative Neighbor Aggregation"
 
 github: 
-- [Code for NERec](https://github.com/YangLiangwei/ConsisRec)
+- [Code for NERec](https://github.com/justpartir/NERec)
 
 (due to space limitations, we upload the newest code and whole datasets with our experiments in this link)
 
