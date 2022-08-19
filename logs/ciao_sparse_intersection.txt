@@ -1,0 +1,79 @@
+[1,     0] loss: 0.089, The best rmse/mae: 9999.000000 / 9999.000000
+[1,   100] loss: 5.238, The best rmse/mae: 9999.000000 / 9999.000000
+[1,   200] loss: 3.448, The best rmse/mae: 9999.000000 / 9999.000000
+[1,   300] loss: 2.695, The best rmse/mae: 9999.000000 / 9999.000000
+ESNRec rmse on valid set: 1.7109, mae:1.4912 
+ESNRec rmse on test set: 1.6650, mae:1.4388 
+[2,     0] loss: 0.033, The best rmse/mae: 1.710876 / 1.491225
+[2,   100] loss: 2.391, The best rmse/mae: 1.710876 / 1.491225
+[2,   200] loss: 2.082, The best rmse/mae: 1.710876 / 1.491225
+[2,   300] loss: 1.869, The best rmse/mae: 1.710876 / 1.491225
+ESNRec rmse on valid set: 1.4380, mae:1.2434 
+ESNRec rmse on test set: 1.3950, mae:1.1986 
+[3,     0] loss: 0.016, The best rmse/mae: 1.437956 / 1.243415
+[3,   100] loss: 1.522, The best rmse/mae: 1.437956 / 1.243415
+[3,   200] loss: 1.484, The best rmse/mae: 1.437956 / 1.243415
+[3,   300] loss: 1.478, The best rmse/mae: 1.437956 / 1.243415
+ESNRec rmse on valid set: 1.2730, mae:1.0930 
+ESNRec rmse on test set: 1.2445, mae:1.0700 
+[4,     0] loss: 0.008, The best rmse/mae: 1.272978 / 1.093042
+[4,   100] loss: 1.220, The best rmse/mae: 1.272978 / 1.093042
+[4,   200] loss: 1.213, The best rmse/mae: 1.272978 / 1.093042
+[4,   300] loss: 1.212, The best rmse/mae: 1.272978 / 1.093042
+ESNRec rmse on valid set: 1.1648, mae:0.9591 
+ESNRec rmse on test set: 1.1319, mae:0.9323 
+[5,     0] loss: 0.006, The best rmse/mae: 1.164752 / 0.959144
+[5,   100] loss: 1.109, The best rmse/mae: 1.164752 / 0.959144
+[5,   200] loss: 1.018, The best rmse/mae: 1.164752 / 0.959144
+[5,   300] loss: 1.167, The best rmse/mae: 1.164752 / 0.959144
+ESNRec rmse on valid set: 1.1101, mae:0.8655 
+ESNRec rmse on test set: 1.0698, mae:0.8328 
+[6,     0] loss: 0.005, The best rmse/mae: 1.110060 / 0.865493
+[6,   100] loss: 1.052, The best rmse/mae: 1.110060 / 0.865493
+[6,   200] loss: 1.081, The best rmse/mae: 1.110060 / 0.865493
+[6,   300] loss: 1.031, The best rmse/mae: 1.110060 / 0.865493
+ESNRec rmse on valid set: 1.1017, mae:0.8562 
+ESNRec rmse on test set: 1.0629, mae:0.8265 
+[7,     0] loss: 0.016, The best rmse/mae: 1.101699 / 0.856171
+[7,   100] loss: 1.013, The best rmse/mae: 1.101699 / 0.856171
+[7,   200] loss: 1.090, The best rmse/mae: 1.101699 / 0.856171
+[7,   300] loss: 0.980, The best rmse/mae: 1.101699 / 0.856171
+ESNRec rmse on valid set: 1.0845, mae:0.8266 
+ESNRec rmse on test set: 1.0559, mae:0.8110 
+[8,     0] loss: 0.006, The best rmse/mae: 1.084522 / 0.826599
+[8,   100] loss: 1.008, The best rmse/mae: 1.084522 / 0.826599
+[8,   200] loss: 1.062, The best rmse/mae: 1.084522 / 0.826599
+[8,   300] loss: 0.953, The best rmse/mae: 1.084522 / 0.826599
+ESNRec rmse on valid set: 1.0904, mae:0.8332 
+ESNRec rmse on test set: 1.0491, mae:0.8048 
+[9,     0] loss: 0.005, The best rmse/mae: 1.084522 / 0.826599
+[9,   100] loss: 0.949, The best rmse/mae: 1.084522 / 0.826599
+[9,   200] loss: 0.971, The best rmse/mae: 1.084522 / 0.826599
+[9,   300] loss: 0.953, The best rmse/mae: 1.084522 / 0.826599
+ESNRec rmse on valid set: 1.0899, mae:0.8426 
+ESNRec rmse on test set: 1.0614, mae:0.8206 
+[10,     0] loss: 0.004, The best rmse/mae: 1.084522 / 0.826599
+[10,   100] loss: 0.937, The best rmse/mae: 1.084522 / 0.826599
+[10,   200] loss: 0.898, The best rmse/mae: 1.084522 / 0.826599
+[10,   300] loss: 0.964, The best rmse/mae: 1.084522 / 0.826599
+ESNRec rmse on valid set: 1.0905, mae:0.8422 
+ESNRec rmse on test set: 1.0598, mae:0.8174 
+[11,     0] loss: 0.010, The best rmse/mae: 1.084522 / 0.826599
+[11,   100] loss: 0.924, The best rmse/mae: 1.084522 / 0.826599
+[11,   200] loss: 0.860, The best rmse/mae: 1.084522 / 0.826599
+[11,   300] loss: 0.932, The best rmse/mae: 1.084522 / 0.826599
+ESNRec rmse on valid set: 1.0927, mae:0.8498 
+ESNRec rmse on test set: 1.0588, mae:0.8245 
+[12,     0] loss: 0.011, The best rmse/mae: 1.084522 / 0.826599
+[12,   100] loss: 0.866, The best rmse/mae: 1.084522 / 0.826599
+[12,   200] loss: 0.852, The best rmse/mae: 1.084522 / 0.826599
+[12,   300] loss: 0.884, The best rmse/mae: 1.084522 / 0.826599
+ESNRec rmse on valid set: 1.0936, mae:0.8505 
+ESNRec rmse on test set: 1.0653, mae:0.8274 
+[13,     0] loss: 0.006, The best rmse/mae: 1.084522 / 0.826599
+[13,   100] loss: 0.819, The best rmse/mae: 1.084522 / 0.826599
+[13,   200] loss: 0.896, The best rmse/mae: 1.084522 / 0.826599
+[13,   300] loss: 0.811, The best rmse/mae: 1.084522 / 0.826599
+ESNRec rmse on valid set: 1.0888, mae:0.8254 
+ESNRec rmse on test set: 1.0554, mae:0.8048 
+finished
